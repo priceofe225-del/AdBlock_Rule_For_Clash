@@ -10,6 +10,7 @@ $urlList = @(
 "https://github.com/hululu1068/AdGuard-Rule/blob/main/rule/adgh.txt",
 "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt",
 "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+"https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/raw/refs/heads/main/allow%20list"
 )
 
 # 日志文件路径
@@ -151,6 +152,7 @@ $textContent | Out-File -FilePath $outputPath -Encoding utf8
 # 输出生成的有效规则总数
 Write-Host "生成的有效规则总数: $ruleCount"
 Add-Content -Path $logFilePath -Value "Total entries: $ruleCount"
+
 
 
 
