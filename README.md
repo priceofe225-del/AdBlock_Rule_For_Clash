@@ -25,22 +25,22 @@
   <tr>
     <td style="padding: 8px;">YAML</td>
     <td style="padding: 8px;">
-      <strong><a href="https://raw.githubusercontent.com/REIJI007/AdBlock_Rule_For_Clash/main/adblock_reject.yaml" style="color: #0066cc;">Github原始链接</a></strong> | 
-      <strong><a href="https://www.adblock-clash-yaml.reiji007.org" style="color: #0066cc;">Cloudflare加速链接</a></strong>
+      <strong><a href="https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/blob/main/adblock_reject.yaml" style="color: #0066cc;">Github原始链接</a></strong> | 
+      <strong><a href="https://ghfast.top/https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/blob/main/adblock_reject.yaml" style="color: #0066cc;">Cloudflare加速链接</a></strong>
     </td>
   </tr>
   <tr>
     <td style="padding: 8px;">MRS</td>
     <td style="padding: 8px;">
-      <strong><a href="https://raw.githubusercontent.com/REIJI007/AdBlock_Rule_For_Clash/main/adblock_reject.mrs" style="color: #0066cc;">Github原始链接</a></strong> | 
-      <strong><a href="https://www.adblock-clash-mrs.reiji007.org" style="color: #0066cc;">Cloudflare加速链接</a></strong>
+      <strong><a href="https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/raw/refs/heads/main/adblock_reject.mrs" style="color: #0066cc;">Github原始链接</a></strong> | 
+      <strong><a href="https://ghfast.top/https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/raw/refs/heads/main/adblock_reject.mrs" style="color: #0066cc;">Cloudflare加速链接</a></strong>
     </td>
   </tr>
   <tr>
     <td style="padding: 8px;">TXT</td>
     <td style="padding: 8px;">
-      <strong><a href="https://raw.githubusercontent.com/REIJI007/AdBlock_Rule_For_Clash/main/adblock_reject.txt" style="color: #0066cc;">Github原始链接</a></strong> | 
-      <strong><a href="https://www.adblock-clash-txt.reiji007.org" style="color: #0066cc;">Cloudflare加速链接</a></strong>
+      <strong><a href="https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/raw/refs/heads/main/adblock_reject.txt" style="color: #0066cc;">Github原始链接</a></strong> | 
+      <strong><a href="https://ghfast.top/https://github.com/priceofe225-del/AdBlock_Rule_For_Clash/raw/refs/heads/main/adblock_reject.txt" style="color: #0066cc;">Cloudflare加速链接</a></strong>
     </td>
   </tr>
 </table>
