@@ -6,9 +6,8 @@
 
 # 定义广告过滤器URL列表
 $urlList = @(
-"https://github.com/Aethersailor/adblockfilters-modified/raw/refs/heads/main/rules/adblockdns.txt",  
-"https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/AdGuard/AdvertisingTest/Advertising.txt",  
-"https://github.com/hululu1068/AdGuard-Rule/blob/main/rule/adgh.txt",  
+"https://github.com/Aethersailor/adblockfilters-modified/raw/refs/heads/main/rules/adblockdns.txt",
+"https://github.com/hululu1068/AdGuard-Rule/blob/main/rule/adgh.txt",
 "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt",
 "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt",  
 "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt",  
@@ -259,6 +258,7 @@ $textContent | Out-File -FilePath $outputPath -Encoding utf8
 # 输出生成的有效规则总数
 Write-Host "生成的有效规则总数: $ruleCount"
 Add-Content -Path $logFilePath -Value "Total entries: $ruleCount"
+
 
 
 
