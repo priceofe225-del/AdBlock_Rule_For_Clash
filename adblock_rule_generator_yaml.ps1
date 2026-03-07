@@ -9,7 +9,6 @@ $urlList = @(
 "https://hblock.molinero.dev/hosts_adblock.txt",
 "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 "https://big.oisd.nl/", 
-"https://raw.githubusercontent.com/REIJI007/Adblock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION_DNS_Lite.txt",
 "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt", 
 "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt",
 "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
@@ -155,6 +154,7 @@ $textContent | Out-File -FilePath $outputPath -Encoding utf8
 # 输出生成的有效规则总数
 Write-Host "生成的有效规则总数: $ruleCount"
 Add-Content -Path $logFilePath -Value "Total entries: $ruleCount"
+
 
 
 
